@@ -1,4 +1,0 @@
-torch
-numpy
-torch-geometric 
-scikit-learn 
