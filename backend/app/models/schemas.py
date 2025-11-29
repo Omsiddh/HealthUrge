@@ -8,8 +8,8 @@ class ForecastRequest(BaseModel):
 class ForecastResponse(BaseModel):
     hospital_id: int
     dates: List[str]
-    predicted_inflow: List[int]
-    predicted_capacity: List[int]
+    predicted_inflow: List[float]
+    predicted_capacity: List[float]
 
 class AllocationRequest(BaseModel):
     date: str
