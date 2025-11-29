@@ -1,0 +1,12 @@
+prophet
+numpy>=2.0.0
+pydantic
+fastapi
+uvicorn
+google-generativeai
+supabase
+python-dotenv
+requests
+pandas
+scikit-learn
+plotly

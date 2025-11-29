@@ -1,0 +1,11 @@
+hospital_id,hospital_name,latitude,longitude,bed_capacity,staff_count,hospital_type,area_type
+H001,Lilavati Hospital,19.0596,72.8295,323,850,Private,Urban_Affluent
+H002,KEM Hospital,19.0095,72.8400,2000,3500,Government,Urban_Dense
+H003,Hinduja Hospital,19.0522,72.8268,450,1200,Private,Urban_Central
+H004,Tata Memorial Hospital,19.0105,72.8451,629,2100,Specialty_Cancer,Urban_Medical
+H005,Kokilaben Hospital,19.2011,72.8438,750,1800,Private,Suburban
+H006,Nanavati Hospital,19.0402,72.8267,350,900,Private,Urban_Affluent
+H007,Breach Candy Hospital,18.9671,72.8041,185,550,Private,South_Mumbai
+H008,Fortis Mulund,19.1722,72.9564,300,750,Private,Suburban
+H009,Apollo Navi Mumbai,19.0330,73.0297,500,1300,Private,Navi_Mumbai
+H010,Sion Hospital,19.0433,72.8611,1500,2800,Government,Urban_Dense
